@@ -1,0 +1,3 @@
+"D:\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\c_codes.dir/objects.a
+D:\MINGW\mingw32\bin\ar.exe cr CMakeFiles\c_codes.dir/objects.a @CMakeFiles\c_codes.dir\objects1.rsp
+D:\MINGW\mingw32\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\c_codes.dir/objects.a -Wl,--no-whole-archive  -o c_codes.exe -Wl,--out-implib,libc_codes.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\c_codes.dir\linklibs.rsp

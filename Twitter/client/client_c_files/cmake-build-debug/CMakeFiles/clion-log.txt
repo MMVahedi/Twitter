@@ -1,0 +1,11 @@
+"D:\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "E:\Sharif univercity\Term 1\Mabani barname sazi\project\phase 1\client_c_files"
+-- The C compiler identification is GNU 8.1.0
+-- Check for working C compiler: D:/MINGW/mingw32/bin/gcc.exe
+-- Check for working C compiler: D:/MINGW/mingw32/bin/gcc.exe - works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/Sharif univercity/Term 1/Mabani barname sazi/project/phase 1/client_c_files/cmake-build-debug

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Sharif univercity/Term 1/Mabani barname sazi/project/phase 1/client_c_files/main.c
+stdio.h
+-
+winsock2.h
+-
+string.h
+-
+slre.h
+E:/Sharif univercity/Term 1/Mabani barname sazi/project/phase 1/client_c_files/slre.h
+stdlib.h
+-
+stdbool.h
+-
+time.h
+-
+
+E:/Sharif univercity/Term 1/Mabani barname sazi/project/phase 1/client_c_files/slre.h
+
